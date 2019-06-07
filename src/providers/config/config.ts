@@ -19,9 +19,9 @@ import 'rxjs/add/operator/map';
 
 export class ConfigProvider {
 
-  public yourSiteUrl: string = 'http://dev.laravelcommerce.com';
-  public consumerKey: string = "6df56cf915318431043dd7a75d";
-  public consumerSecret: string = "95032b42153184310488f5fb8f";
+  public yourSiteUrl: string = 'http://mobile.foreveraurelie.com';
+  public consumerKey: string = "3f12c48a1559889694418103ec";
+  public consumerSecret: string = "7c0c490315598896949d7a2d69";
 
   public showIntroPage = 1; //  0 to hide and 1 to show intro page
   public appInProduction = true;//  0 to hide and 1 to show intro page
