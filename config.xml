@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.vectorcoder.ionicecommerce" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Ionic Shop</name>
+    <name>Forever Aurelie</name>
     <description>Ionic - Shop</description>
     <author email="hi@ionicframework" href="http://ionicframework.com/">Ionic Framework Team</author>
     <content src="index.html" />
@@ -97,4 +97,5 @@
     </feature>
     <preference name="CordovaWebViewEngine" value="CDVWKWebViewEngine" />
     <preference name="AndroidPersistentFileLocation" value="Compatibility" />
+    <engine name="android" spec="6.3.0" />
 </widget>

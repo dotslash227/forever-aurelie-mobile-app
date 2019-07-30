@@ -99,6 +99,8 @@
       "cordova-plugin-statusbar": {},
       "onesignal-cordova-plugin": {}
     },
-    "platforms": []
+    "platforms": [
+      "android"
+    ]
   }
 }
